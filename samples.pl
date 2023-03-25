@@ -9,4 +9,5 @@ foreach my $i(@a) {
 		}
 	}
 }
+print "The sorted rray is : \t";
 print @a;
